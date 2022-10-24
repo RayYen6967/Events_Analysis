@@ -1,5 +1,5 @@
-# UMD_alumni_association_consultant
-Data Processing &amp; Analysis in Python
+# Events Analysis (UMD alumni association)
+Data Processing & Analysis in Python
 
 
 ●	Help the UMD alumni association find ways to attract more first time attendees and major prospects.
