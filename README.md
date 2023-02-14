@@ -11,4 +11,4 @@ Attendees and donors are the backbones for the UMD alumni association. This proj
 
 * The	dataset	provided is	from 07/01/2013-11/30/2019 and contains seven subsets of	data,	arranged by fiscal year	(July	1	–	June 30).	
 
-* The	data set outlines each	program	or event hosted	by the Alumni	Association	and	provides general information on	the	event	as well as the	event	registrants.
+* The	dataset outlines each	program	or event hosted	by the Alumni	Association	and	provides general information on	the	event	as well as the	event	registrants.
