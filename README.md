@@ -5,7 +5,7 @@ Attendees and donors are the backbones for the UMD alumni association. This proj
 
 * Help the UMD alumni association find ways to attract more first time attendees and major prospects.
 
-* Predict the percentage first time attendees and percentage major prospect based on the characteristics of the event that is going to be held.
+* Predict the percentage first time attendees and percentage major prospect based on the characteristics of the event.
 
 ● Data:
 
