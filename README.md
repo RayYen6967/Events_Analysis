@@ -1,31 +1,13 @@
 # Events Analysis (UMD alumni association)
 Data Processing & Analysis in Python
 
+● Research Questions:
 
-●	Help the UMD alumni association find ways to attract more first time attendees and major prospects.
+Help the UMD alumni association find ways to attract more first time attendees and major prospects.
 
-●	Predict the percentage first time attendees and percentage major prospect based on the characteristics of the event that is going to be held.
+Predict the percentage first time attendees and percentage major prospect based on the characteristics of the event that is going to be held.
 
+● Data:
 
-Discover ways to improve PFTA:
-
-
-I.	 Events should be held on May, August, September and October.
-
-II.	Preferable locations are international and on campus.
-
-III.	Preferable types are social and athletics.
-
-IV.	Preferable activity -- SALC.
-
-
-Discover ways to improve PMP:
-
-
-I.	Events should be held on May and September, preferably Thursday.
-
-II.	Try hold at South East region and prevent online events.
-
-III.	Try to attract alumni with higher age.
-
-IV.	Preferable activity -- Dinner. Unpreferable -- SALC, AA.
+The	dataset	provided is	from 07/01/2013-11/30/2019 and	contains seven subsets of	data,	arranged by fiscal year	(July	1	–	June 30).	
+The	data set	outlines each	program	or event hosted	by the Alumni	Association	and	provides general information on	the	event	as well as the	event	registrants.
